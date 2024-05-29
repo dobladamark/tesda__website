@@ -306,18 +306,19 @@ font-weight: 700;
 }
 
 /* video sec */
-.video-container {
+.yt-video-container {
     position: relative;
     width: 100%;
     max-width: 1000px;
     margin: 0 auto;
     margin-bottom: 100px;
-  }
-  
-  .video-container video {
+
+}
+
+.yt-video {
     width: 100%;
     height: 600px;
-  }
+}
 
 
 /* EVENTS */
